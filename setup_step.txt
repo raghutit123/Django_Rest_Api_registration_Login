@@ -1,0 +1,6 @@
+Step to install Application
+1. Create folder "api_regi_login"
+2. Project save in this folder
+3. Open Tarminal in project
+4. Install requirement package
+5. pip install -r.\requirements.txt
